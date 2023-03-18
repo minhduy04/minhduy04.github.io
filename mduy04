@@ -1,0 +1,17 @@
+body{
+    font-size: 20px;
+    background-color:blanchedalmond;
+}
+
+
+/* Header **/
+header{
+     padding: 25px; 
+     background-color:aqua;
+}
+
+footer{
+    padding: 25px;
+background-color:orangered;
+text-decoration-line: underline;
+} 
