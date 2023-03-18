@@ -1,0 +1,19 @@
+body{
+  
+}
+
+
+/* Header **/
+header{
+    
+    padding-top: 20px;
+    background-color: aqua; 
+}
+
+footer{
+
+    padding: 30px;
+    background-color:orangered
+  
+} 
+
